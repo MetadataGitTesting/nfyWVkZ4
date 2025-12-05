@@ -11,32 +11,6 @@ buildSystemDetails:
   author: null
   createdAt: '2025-12-05 23:12:40'
 pipelines:
-  pipelines/deletedOnLeftModifiedOnRightSelectLeft:
-    name: deletedOnLeftModifiedOnRightSelectLeft
-    description: Really solid info
-    author: tpfsiwos.0p4vz2dg@mieazrvm.com
-    mode: batch
-    artefactID: ''
-    language: scala
-    createdAt: '2025-12-05 23:12:41'
-    datasets:
-      inputs: []
-      outputs: []
-    subgraphs: []
-    dependencies: {}
-  pipelines/deletedOnLeftModifiedOnRightSelectRight:
-    name: deletedOnLeftModifiedOnRightSelectRight
-    description: Really solid info
-    author: tpfsiwos.0p4vz2dg@mieazrvm.com
-    mode: batch
-    artefactID: ''
-    language: scala
-    createdAt: '2025-12-05 23:12:41'
-    datasets:
-      inputs: []
-      outputs: []
-    subgraphs: []
-    dependencies: {}
   pipelines/deletedOnRightModifiedOnLeftSelectLeft:
     name: deletedOnRightModifiedOnLeftSelectLeft
     description: Really solid info
